@@ -13,3 +13,4 @@
 [submodule "thirdparty/OpenTimer"]
 	path = thirdparty/OpenTimer
 	url = https://github.com/OpenTimer/OpenTimer.git
+    branch = master
